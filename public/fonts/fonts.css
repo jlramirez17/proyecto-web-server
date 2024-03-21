@@ -1,0 +1,22 @@
+/*FONTS.CSS*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* Author: Designova.*/
+
+@font-face{ 
+    font-family:"MontserratBold";
+    src: url('Montserrat/montserrat-bold-webfont.eot'); 
+    src: 
+    url('Montserrat/Montserrat-Black.woff') format('truetype'), 
+    url('Montserrat/montserrat-bold-webfont.eot?#iefix') format('embedded-opentype'), 
+    url('Montserrat/Montserrat-Bold.ttf') format('truetype'), 
+    url('Montserrat/montserrat-bold-webfont.svg#webfont') format('svg'); 
+}
+@font-face{ 
+    font-family:"MontserratRegular";
+    src: url('Montserrat/montserrat-regular-webfont.eot'); 
+    src: 
+    url('Montserrat/Montserrat-Regular-webfont.woff') format('woff'), 
+    url('Montserrat/montserrat-regular-webfont.eot?#iefix') format('embedded-opentype'), 
+    url('Montserrat/Montserrat-Regular.ttf') format('truetype'), 
+    url('Montserrat/montserrat-regular-webfont.svg#webfont') format('svg'); 
+}
