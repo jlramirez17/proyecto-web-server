@@ -3,8 +3,8 @@ Realizamos un pequeño servidor web, donde servimos una web que presenta un port
 
 
 ## ¿Cómo usarlo?
-1. Debes clonar el siguiente repositorio haciendo`git clone `
+1. Debes clonar el siguiente repositorio haciendo`git clone https://github.com/jlramirez17/proyecto-web-server.git`
 2. Abrir en tu editor de código y en la terminal ejecutar `npm install`
 3. Crear tu archivo `.env` con las variables de entorno, con el ejemplo de la plantilla que dejamos en el directorio `.env.template`, recomendado usar PORT:3000 y nombre de la carpeta 'public'.
-4. En la carpeta public, usted puede guardar o crear otro archivo index.html, css, javascript, que le muestre lo que usted desee, es libre de hacerlo. 
+4. En la carpeta public, usted puede guardar o crear otro archivo index,html, css, javascript, que le muestre lo que usted desee, es libre de hacerlo. 
 5. Una vez realizado todos los pasos anteriores, puedes ejecutar el proyecto usando el comando `npm start`
